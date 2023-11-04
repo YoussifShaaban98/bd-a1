@@ -1,0 +1,13 @@
+0	124
+1	17
+2	64
+
+
+
+
+
+
+
+# Run the container bash
+CMD ["bash"]
+
